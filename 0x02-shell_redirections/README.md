@@ -18,4 +18,5 @@
 17. I hate bins: This file display all the lines in the file /etc/passwd that do not contain the pattern “bin”..
 18. Letters only please: This file display all lines of the file /etc/ssh/sshd_config starting with a letter.
 19. A to Z: This file replace all characters A and c from input to Z and e respectively.
+20. Without C, you would live in hiago: This file create a script that removes all letters c and C from input.
 

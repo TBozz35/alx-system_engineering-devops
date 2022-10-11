@@ -19,4 +19,5 @@
 18. Letters only please: This file display all lines of the file /etc/ssh/sshd_config starting with a letter.
 19. A to Z: This file replace all characters A and c from input to Z and e respectively.
 20. Without C, you would live in hiago: This file create a script that removes all letters c and C from input.
+21. esreveR: This file write a script that reverse its input.
 

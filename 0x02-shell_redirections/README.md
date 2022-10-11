@@ -17,4 +17,5 @@
 16. What's next?: This file display lines containing the pattern “root” and 3 lines after them in the file /etc/passwd..
 17. I hate bins: This file display all the lines in the file /etc/passwd that do not contain the pattern “bin”..
 18. Letters only please: This file display all lines of the file /etc/ssh/sshd_config starting with a letter.
+19. A to Z: This file replace all characters A and c from input to Z and e respectively.
 

@@ -20,4 +20,5 @@
 19. A to Z: This file replace all characters A and c from input to Z and e respectively.
 20. Without C, you would live in hiago: This file create a script that removes all letters c and C from input.
 21. esreveR: This file write a script that reverse its input.
+22. DJ Cut Killer: This file write a script that displays all users and their home directories, sorted by users.
 
